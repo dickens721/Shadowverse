@@ -13,5 +13,5 @@
         android:layout_centerHorizontal="true"
         android:layout_centerVertical="true"
         android:contentDescription="@string/desc"
-        app:srcCompat="@drawable/sv" />
+        app:srcCompat="@drawable/luna" />
 </RelativeLayout>
